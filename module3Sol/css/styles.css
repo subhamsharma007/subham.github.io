@@ -5,7 +5,7 @@
 }
 
 h1 {
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: Brushstroke,fantasy;
 	color: #000000;
 }
 
@@ -113,7 +113,7 @@ section {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid blue;
+  border: 1px solid red;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
