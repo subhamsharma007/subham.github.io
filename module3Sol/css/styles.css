@@ -113,7 +113,7 @@ section {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid red;
+  border: 1px solid blue;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
